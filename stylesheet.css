@@ -5,7 +5,13 @@
     font-size:20px;
     display:flex;
     justify-content: space-around;
+
+}
+.link{
     text-decoration: none;
+    color:white;
+    margin-top:20px
+    ;
 }
 .headshot{
     width:25%;
@@ -19,7 +25,9 @@
     font-size:50px;
     margin-top:5px;
     margin-bottom:5px;
+    width: auto;
 }
 .aboutme{
-    border:1px solid black;   
+    border:1px solid black; 
+    height: auto;
 }
